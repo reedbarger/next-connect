@@ -18,7 +18,7 @@
     "@babel/core": "^7.1.2",
     "@material-ui/core": "^3.3.0",
     "@material-ui/icons": "^3.0.1",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "compression": "^1.7.3",
     "connect-mongo": "^2.0.1",
     "date-fns": "^1.29.0",
